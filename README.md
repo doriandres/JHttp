@@ -10,7 +10,6 @@ import android.widget.TextView;
 import com.dojami.droide.net.JHttp;
 import org.json.JSONObject;
 
-
 public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
