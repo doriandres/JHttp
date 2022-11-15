@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
-import com.dojami.droide.net.JHttp;
+import com.yourcompany.yourproject.utils.JHttp;
 import org.json.JSONObject;
 
 public class MainActivity extends AppCompatActivity {
