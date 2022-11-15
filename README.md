@@ -1,5 +1,5 @@
 # JHttp
-Http Client for Java and Android
+Non blocking Http Client for Java and Android
 
 ## Usage example (JDK 17):
 ```java
